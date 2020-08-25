@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/lyraproj/dgo/dgo"
-	require "github.com/lyraproj/dgo/dgo_test"
+	"github.com/lyraproj/dgo/test/require"
 	"github.com/lyraproj/hierasdk/hiera"
 	"github.com/lyraproj/hierasdk/register"
 )
